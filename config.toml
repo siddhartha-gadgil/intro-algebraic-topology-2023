@@ -1,11 +1,11 @@
-baseURL = "http://math.iisc.ac.in/~gadgil/algebraic-topology-2022/"
+baseURL = "http://math.iisc.ac.in/~gadgil/intro-algebraic-topology-2023/"
 languageCode = "en-us"
-title = "MA 332: Algebraic Topology"
+title = "MA 232: Introduction to Algebraic Topology"
 theme = "course"
 buildFuture = "true"
 [params]
-    code = "MA 332"
-    course = "Algebraic Topology"
-    term = "January 2022"
+    code = "MA 232"
+    course = "Introduction to Algebraic Topology"
+    term = "August 2023"
 [markup.goldmark.renderer]
 unsafe= true
