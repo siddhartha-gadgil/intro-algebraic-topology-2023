@@ -13,3 +13,8 @@ A Team for this course (within IISc) named __Introduction to Algebraic Topology 
 
 There are Teams apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. I would encourage using the Teams chat to ask questions whenever needed.  
 
+##### Additional Resources
+
+This course was [taught online](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html) in 2021. The [lectures](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) are online.
+
+Note that students are responsible for all the material covered in the lectures this semester, which is likely to be more than that in the above resources. Experience also suggests that offline lectures are more effective. Thus, it is wise to use the above as supplements, not substitutes, for the lectures.
