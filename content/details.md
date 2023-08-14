@@ -13,6 +13,15 @@ A Team for this course (within IISc) named __Introduction to Algebraic Topology 
 
 There are Teams apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. I would encourage using the Teams chat to ask questions whenever needed.  
 
+##### Assignment submissions
+
+Assignments will be posted on this web site and linked in Microsoft Teams. They have to be submitted through Microsoft Teams. The ea
+siest way to do this is to write on paper, photograph or scan this and submit `pdf` or image files. It is recommended that you use a
+n app like `Adobe scan` or `Microsoft Lens` to generate a single pdf file for each assignment (instead of a collection of images).
+
+If you wish you can instead use `LaTeX` and submit `pdf` files.
+
+
 ##### Additional Resources
 
 This course was [taught online](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/index.html) in 2021. The [lectures](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) are online.
