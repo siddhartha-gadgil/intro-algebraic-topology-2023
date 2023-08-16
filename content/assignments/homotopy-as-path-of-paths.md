@@ -13,4 +13,4 @@ In particular, the compact-open topology gives a topology on the space of paths 
 
 2. Show that if $h: [0, 1] \to C([0, 1], X)$ is continuous, then the map $H: [0, 1] \times [0, 1] \to X$ defined by $H(s, t) = h(t)(s)$ is continuous.
 
-Observe that functions $h: [0, 1]\to C([0, 1], X)$ are functions $h: [0, 1]\to \Omega(X)$ with $h(t)$ the path $h_t: s ↦  H(s, t)$.
+Observe that functions $h: [0, 1]\to C([0, 1], X)$ are functions $h: [0, 1]\to \Omega(X)$ with $h(t)$ the path $h_t: s \mapsto  H(s, t)$.
