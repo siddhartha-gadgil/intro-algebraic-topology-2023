@@ -30,8 +30,8 @@ Note that students are responsible for all the material covered in the lectures 
 
 ##### Midterm Examination
 
-* Date: Wednesday, September 27, 2023.
-* Time: 10:00 - 11:30 am.
-* Venue: LH-5, Department of Mathematics, IISc.
-* Weightage: 40% of the total marks.
-* Syllabus: Till the lecture on Monday, September 18, 2023.
+* __Date:__ Wednesday, September 27, 2023.
+* __Time:__ 10:00 - 11:30 am.
+* __Venue:__ LH-5, Department of Mathematics, IISc.
+* __Weightage:__ 40% of the total marks.
+* __Syllabus:__ Till the lecture on Monday, September 18, 2023.
