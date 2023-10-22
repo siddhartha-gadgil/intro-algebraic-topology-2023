@@ -1,6 +1,6 @@
 ---
 title: "Strange Covers"
-date: 2023-10-31T08:37:44+05:30
+date: 2023-11-02T08:37:44+05:30
 draft: false
 ---
 
