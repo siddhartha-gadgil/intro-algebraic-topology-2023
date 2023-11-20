@@ -35,3 +35,11 @@ Note that students are responsible for all the material covered in the lectures 
 * __Venue:__ LH-5, Department of Mathematics, IISc.
 * __Weightage:__ 40% of the total marks.
 * __Syllabus:__ Till the lecture on Monday, September 18, 2023.
+
+##### Final Examination
+
+* __Date:__ Friday, December 1, 2023.
+* __Time:__ 9:00 am - 12:00 noon.
+* __Venue:__ LH-5, Department of Mathematics, IISc.
+* __Weightage:__ 50% of the total marks.
+* __Syllabus:__ The entire course.
